@@ -1,0 +1,74 @@
+2022-06-20 11:31:51.917 -07:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2022-06-20 11:31:57.230 -07:00 [DBG] Hosting starting
+2022-06-20 11:32:07.978 -07:00 [INF] Now listening on: http://localhost:5295
+2022-06-20 11:32:07.982 -07:00 [DBG] Loaded hosting startup assembly INMemoryCaching
+2022-06-20 11:32:07.988 -07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2022-06-20 11:32:07.992 -07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2022-06-20 11:32:07.999 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-20 11:32:08.006 -07:00 [INF] Hosting environment: Development
+2022-06-20 11:32:08.010 -07:00 [INF] Content root path: C:\Users\IYAWE\Desktop\DotNet Projects\INMemoryCaching\
+2022-06-20 11:32:08.015 -07:00 [DBG] Hosting started
+2022-06-20 11:32:08.347 -07:00 [DBG] Connection id "0HMIITCNCVLO0" received FIN.
+2022-06-20 11:32:08.347 -07:00 [DBG] Connection id "0HMIITCNCVLNV" received FIN.
+2022-06-20 11:32:08.409 -07:00 [DBG] Connection id "0HMIITCNCVLO0" accepted.
+2022-06-20 11:32:08.409 -07:00 [DBG] Connection id "0HMIITCNCVLNV" accepted.
+2022-06-20 11:32:08.447 -07:00 [DBG] Connection id "0HMIITCNCVLNV" started.
+2022-06-20 11:32:08.447 -07:00 [DBG] Connection id "0HMIITCNCVLO0" started.
+2022-06-20 11:32:08.640 -07:00 [DBG] Connection id "0HMIITCNCVLNV" sending FIN because: "The client closed the connection."
+2022-06-20 11:32:08.640 -07:00 [DBG] Connection id "0HMIITCNCVLO0" sending FIN because: "The client closed the connection."
+2022-06-20 11:32:08.656 -07:00 [DBG] Connection id "0HMIITCNCVLNV" disconnecting.
+2022-06-20 11:32:08.656 -07:00 [DBG] Connection id "0HMIITCNCVLO0" disconnecting.
+2022-06-20 11:32:08.712 -07:00 [DBG] Connection id "0HMIITCNCVLNV" stopped.
+2022-06-20 11:32:08.715 -07:00 [DBG] Connection id "0HMIITCNCVLO0" stopped.
+2022-06-20 11:33:41.196 -07:00 [DBG] Connection id "0HMIITCNCVLO1" accepted.
+2022-06-20 11:33:41.224 -07:00 [DBG] Connection id "0HMIITCNCVLO2" accepted.
+2022-06-20 11:33:41.232 -07:00 [DBG] Connection id "0HMIITCNCVLO1" started.
+2022-06-20 11:33:41.285 -07:00 [DBG] Connection id "0HMIITCNCVLO2" started.
+2022-06-20 11:33:41.665 -07:00 [DBG] Connection id "0HMIITCNCVLO2" received FIN.
+2022-06-20 11:33:41.669 -07:00 [DBG] Connection id "0HMIITCNCVLO2" sending FIN because: "The client closed the connection."
+2022-06-20 11:33:41.673 -07:00 [DBG] Connection id "0HMIITCNCVLO2" disconnecting.
+2022-06-20 11:33:41.680 -07:00 [DBG] Connection id "0HMIITCNCVLO2" stopped.
+2022-06-20 11:33:41.765 -07:00 [DBG] Connection id "0HMIITCNCVLO1" received FIN.
+2022-06-20 11:33:41.770 -07:00 [DBG] Connection id "0HMIITCNCVLO1" disconnecting.
+2022-06-20 11:33:41.774 -07:00 [DBG] Connection id "0HMIITCNCVLO1" sending FIN because: "The client closed the connection."
+2022-06-20 11:33:41.789 -07:00 [DBG] Connection id "0HMIITCNCVLO1" stopped.
+2022-06-20 11:33:42.372 -07:00 [DBG] Connection id "0HMIITCNCVLO3" accepted.
+2022-06-20 11:33:42.376 -07:00 [DBG] Connection id "0HMIITCNCVLO3" started.
+2022-06-20 11:33:43.771 -07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5295/swagger/index.html - -
+2022-06-20 11:33:44.681 -07:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2022-06-20 11:33:45.132 -07:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2022-06-20 11:33:45.138 -07:00 [DBG] Request did not match any endpoints
+2022-06-20 11:33:47.449 -07:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2022-06-20 11:33:52.620 -07:00 [DBG] Response markup was updated to include browser refresh script injection.
+2022-06-20 11:33:52.625 -07:00 [DBG] Connection id "0HMIITCNCVLO3" completed keep alive response.
+2022-06-20 11:33:52.683 -07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5295/swagger/index.html - - - 200 - text/html;charset=utf-8 8886.4130ms
+2022-06-20 11:33:54.703 -07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5295/_framework/aspnetcore-browser-refresh.js - -
+2022-06-20 11:33:54.942 -07:00 [DBG] Connection id "0HMIITCNCVLO3" completed keep alive response.
+2022-06-20 11:33:54.958 -07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5295/_framework/aspnetcore-browser-refresh.js - - - 200 11988 application/javascript;+charset=utf-8 254.4815ms
+2022-06-20 11:33:56.568 -07:00 [DBG] Connection id "0HMIITCNCVLO3" received FIN.
+2022-06-20 11:33:56.573 -07:00 [DBG] Connection id "0HMIITCNCVLO3" disconnecting.
+2022-06-20 11:33:56.581 -07:00 [DBG] Connection id "0HMIITCNCVLO3" sending FIN because: "The client closed the connection."
+2022-06-20 11:33:56.589 -07:00 [DBG] Connection id "0HMIITCNCVLO3" stopped.
+2022-06-20 11:34:04.455 -07:00 [DBG] Connection id "0HMIITCNCVLO4" accepted.
+2022-06-20 11:34:04.459 -07:00 [DBG] Connection id "0HMIITCNCVLO4" started.
+2022-06-20 11:34:04.466 -07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5295/swagger/v1/swagger.json - -
+2022-06-20 11:34:04.473 -07:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2022-06-20 11:34:04.476 -07:00 [DBG] Request did not match any endpoints
+2022-06-20 11:34:05.379 -07:00 [DBG] Connection id "0HMIITCNCVLO4" completed keep alive response.
+2022-06-20 11:34:05.384 -07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5295/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 917.7713ms
+2022-06-20 11:34:06.584 -07:00 [DBG] Connection id "0HMIITCNCVLO4" received FIN.
+2022-06-20 11:34:06.588 -07:00 [DBG] Connection id "0HMIITCNCVLO4" disconnecting.
+2022-06-20 11:34:06.592 -07:00 [DBG] Connection id "0HMIITCNCVLO4" sending FIN because: "The client closed the connection."
+2022-06-20 11:34:06.606 -07:00 [DBG] Connection id "0HMIITCNCVLO4" stopped.
+2022-06-20 14:15:00.020 -07:00 [DBG] Connection id "0HMIITCNCVLO5" received FIN.
+2022-06-20 14:15:08.093 -07:00 [DBG] Connection id "0HMIITCNCVLO5" accepted.
+2022-06-20 14:15:08.189 -07:00 [DBG] Connection id "0HMIITCNCVLO5" started.
+2022-06-20 14:15:08.956 -07:00 [DBG] Connection id "0HMIITCNCVLO6" received FIN.
+2022-06-20 14:15:09.054 -07:00 [DBG] Connection id "0HMIITCNCVLO6" accepted.
+2022-06-20 14:15:09.070 -07:00 [DBG] Connection id "0HMIITCNCVLO6" started.
+2022-06-20 14:15:09.141 -07:00 [DBG] Connection id "0HMIITCNCVLO5" sending FIN because: "The client closed the connection."
+2022-06-20 14:15:09.215 -07:00 [DBG] Connection id "0HMIITCNCVLO6" sending FIN because: "The client closed the connection."
+2022-06-20 14:15:09.258 -07:00 [DBG] Connection id "0HMIITCNCVLO5" disconnecting.
+2022-06-20 14:15:09.341 -07:00 [DBG] Connection id "0HMIITCNCVLO6" disconnecting.
+2022-06-20 14:15:09.399 -07:00 [DBG] Connection id "0HMIITCNCVLO5" stopped.
+2022-06-20 14:15:09.399 -07:00 [DBG] Connection id "0HMIITCNCVLO6" stopped.
